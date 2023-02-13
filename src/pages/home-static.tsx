@@ -29,7 +29,7 @@ export function IndexStatic() {
         />
       </main>
 
-      {/*<Footer />*}
+      {/* <Footer /> */}
     </>
   );
 }
